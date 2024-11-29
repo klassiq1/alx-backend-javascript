@@ -7,7 +7,7 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
-  "author": "richardchekwas@gmail.com",
+  "author": "hardeyfehmie24@gmail.com",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
